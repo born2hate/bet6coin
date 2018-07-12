@@ -1,0 +1,10 @@
+
+
+
+
+.bg-color { background: ##696969 !important ; }
+.cc { position: fixed; z-index: 1000; margin: -135px 94%; }
+@media screen and (max-width: 768px) {
+
+ .cc { position: fixed; z-index: 1000; margin: -635px 88%; }
+}
